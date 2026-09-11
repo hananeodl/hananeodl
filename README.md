@@ -72,7 +72,6 @@
       <td>Microservices & Security</td>
       <td>Spring Boot · Spring Cloud · Eureka · API Gateway</td>
     </tr>
-
     <tr>
       <td>
         <a href="https://github.com/hananeodl/Real-Estate-Traceability">
@@ -82,19 +81,16 @@
       <td>Blockchain</td>
       <td>Hyperledger Fabric · Go · Docker · CouchDB</td>
     </tr>
-
     <tr>
       <td><b>SmartAutoCare</b></td>
       <td>IoT & AI</td>
       <td>ESP32 · Python · MATLAB · Simulink</td>
     </tr>
-
     <tr>
       <td><b>Scientific Research Chatbot</b></td>
       <td>NLP & Semantic Search</td>
       <td>Sentence Transformers · FAISS · Streamlit</td>
     </tr>
-
     <tr>
       <td>
         <a href="https://github.com/hananeodl/book_borrow">
