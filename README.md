@@ -87,7 +87,9 @@
       <td>ESP32 · Python · MATLAB · Simulink</td>
     </tr>
     <tr>
-      <td><b>Scientific Research Chatbot</b></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1fd_3OfGAkYBhqsy9BJxeF6rEF1TqazcU?usp=sharing">
+        <b>Scientific Research Chatbot</b></td>
       <td>NLP & Semantic Search</td>
       <td>Sentence Transformers · FAISS · Streamlit</td>
     </tr>
