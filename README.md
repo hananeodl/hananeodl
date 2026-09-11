@@ -1,144 +1,160 @@
-# Hi, I'm Hanane Oudaali 👋
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-### Software & AI Engineer
+<p>
+  Welcome to my GitHub profile! </br>
+  I'm <b>Hanane Oudaali</b>, a <b>Software & AI Engineer</b> from
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/>
+  <b>Morocco</b>.
+</p>
 
-I'm a Computer Engineering & Data Analytics graduate focused on building
-intelligent applications across machine learning, backend systems, and data engineering.
+<p>
+  I'm a Computer Engineering & Data Analytics graduate focused on building
+  intelligent applications across <b>machine learning</b>,
+  <b>backend systems</b>, and <b>data engineering</b>.
+</p>
 
-I enjoy turning real-world problems into practical software solutions,
-from AI-powered systems and data pipelines to scalable backend applications
-and automation workflows.
+<h3>🛠 Things I code with</h3>
 
----
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-## 🧠 What I Work With
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
-**Software Engineering**
-- Java • Python • JavaScript • TypeScript
-- Spring Boot • FastAPI • Flask
-- React • Next.js • React Native
-- REST APIs • Microservices • JWT
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 
-**AI & Machine Learning**
-- Scikit-learn • TensorFlow
-- NLP • Deep Learning • Computer Vision
-- Sentence Transformers • FAISS
-- LSTM • GRU • Transformers
-- LoRA • Pseudo-labeling
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 
-**Data Engineering**
-- Apache Spark • Hadoop
-- MySQL • PostgreSQL • MongoDB
-- Pandas • Power BI
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-**Automation & DevOps**
-- n8n • Selenium
-- Docker • Podman
-- Git • GitHub • GitLab
-- Linux
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
----
+  <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</p>
 
-## 🚀 Featured Projects
+<h3>🚀 Featured projects</h3>
 
-### 🏢 Employee Management System
-Microservices-based employee management platform built with Spring Boot
-and Spring Cloud.
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Focus</b></td>
+      <td><b>Technologies</b></td>
+    </tr>
+  </thead>
 
-**Focus:** API Gateway • Eureka • Config Server • Spring Security • REST
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/hananeodl/employee_system">
+          <b>Employee Management System</b>
+        </a>
+      </td>
+      <td>Microservices & Security</td>
+      <td>Spring Boot · Spring Cloud · Eureka · API Gateway</td>
+    </tr>
 
----
+    <tr>
+      <td>
+        <a href="https://github.com/hananeodl/Real-Estate-Traceability">
+          <b>Real Estate Traceability</b>
+        </a>
+      </td>
+      <td>Blockchain</td>
+      <td>Hyperledger Fabric · Go · Docker · CouchDB</td>
+    </tr>
 
-### 🏠 Real Estate Transaction Traceability
-Permissioned blockchain escrow system for securely managing real estate
-transactions and releasing funds after predefined conditions are met.
+    <tr>
+      <td><b>SmartAutoCare</b></td>
+      <td>IoT & AI</td>
+      <td>ESP32 · Python · MATLAB · Simulink</td>
+    </tr>
 
-**Focus:** Hyperledger Fabric • Go • Docker • Chaincode • CouchDB
+    <tr>
+      <td><b>Scientific Research Chatbot</b></td>
+      <td>NLP & Semantic Search</td>
+      <td>Sentence Transformers · FAISS · Streamlit</td>
+    </tr>
 
----
+    <tr>
+      <td>
+        <a href="https://github.com/hananeodl/book_borrow">
+          <b>BookBorrow</b>
+        </a>
+      </td>
+      <td>Full-Stack Mobile</td>
+      <td>React Native · Spring Boot · MySQL · JWT</td>
+    </tr>
+  </tbody>
+</table>
 
-### 🚗 SmartAutoCare
-IoT and AI-based predictive maintenance system using vehicle vibration
-and sound signals to detect abnormal behavior.
+<h3>💼 Professional experience</h3>
 
-**Focus:** ESP32 • Sensors • Python • MATLAB • Simulink • Machine Learning
+<p>
+  <b>PFE Intern — EXTRA Immobilien Gruppe</b>
+</p>
 
----
+<p>
+  Worked on a PropTech automation platform for real estate opportunity
+  sourcing and lead generation.
+</p>
 
-### 🔬 Scientific Research Chatbot
-Semantic search system for scientific publications using sentence
-embeddings and FAISS.
+<ul>
+  <li>Backend APIs with Python, Flask and FastAPI</li>
+  <li>Database integration with MySQL/PostgreSQL</li>
+  <li>Web automation with Selenium</li>
+  <li>Workflow automation with n8n</li>
+  <li>Cold mailing and lead generation workflows</li>
+  <li>Agile development and Git/GitHub collaboration</li>
+</ul>
 
-**100K+ indexed articles** • Sentence Transformers • FAISS • NLP
+<h3>📊 Some things I've built</h3>
 
----
+<p>
+  🔹 <b>100K+</b> scientific articles indexed for semantic retrieval
+  <br/>
+  🔹 <b>54K</b> labeled samples for Arabic dialect identification
+  <br/>
+  🔹 <b>6</b> Arabic dialect classes
+  <br/>
+  🔹 <b>97%+</b> reported F1 score
+  <br/>
+  🔹 <b>594K</b> trainable parameters using parameter-efficient fine-tuning
+  <br/>
+  🔹 <b>~90%</b> efficiency improvement in a real-estate sourcing workflow
+</p>
 
-### 📚 BookBorrow
-Mobile application for borrowing and managing books with authentication,
-REST APIs, and persistent database storage.
+<h3>🌐 Let's connect</h3>
 
-**Focus:** React Native • Expo • Spring Boot • MySQL • JWT
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/hanane-oudaali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 
-## 💼 Professional Experience
-
-### PFE Intern — EXTRA Immobilien Gruppe
-**PropTech & Automation**
-
-Worked on automating real estate opportunity sourcing and lead generation,
-including backend APIs, database integration, web automation, cold mailing
-workflows, and workflow automation.
-
-**Technologies:** FastAPI • Flask • Python • MySQL/PostgreSQL • Selenium • n8n • Git
-
----
-
-## 📊 Some Project Results
-
-- **100K** scientific articles indexed for semantic retrieval
-- **54K** labeled samples used for Arabic dialect classification
-- **6** Arabic dialect classes
-- **97%+** reported F1 score on dialect identification
-- **594K** trainable parameters using parameter-efficient fine-tuning
-- **~90%** efficiency improvement in a real-estate sourcing workflow
-
----
-
-## 📜 Certifications
-
-- AWS Academy Graduate — Cloud Foundations
-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-- Amazon Bitesize Careers — Factchecking AI
-- Angular — SoloLearn
-- Java Intermediate — SoloLearn
-- Web Development — SoloLearn
-
----
-
-## 🌐 Let's Connect
-
-- 🌐 [Portfolio](https://hanane-oudaali-portfolio.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/hanane-oudaali)
-- 🐙 [GitHub](https://github.com/hananeodl)
-
----
-
-### Currently looking for opportunities in
-
-**Software Engineering • AI/ML • Data Engineering • Backend Development • Automation**
-
-<!--
-**hananeodl/hananeodl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/hananeodl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
